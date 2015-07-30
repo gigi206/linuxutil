@@ -987,7 +987,7 @@ class id:
 	#@wrapException
 	def numparents(self):
 		"""
-		Desc : Number of parents of teh process
+		Desc : Number of parents of the process
 		Args : None
 		Ret  : Int
 		"""
