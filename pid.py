@@ -1021,7 +1021,7 @@ class id:
 		Args : None
 		Ret  : List of Objets
 		"""
-		return [pid(_x) for _x in ls() if pid(_x).ppid == self.pid]
+		return [id(_x) for _x in ls() if id(_x).ppid == self.pid]
 
 	#@wrapException
 	def setcpu(self, cpus):
