@@ -1,2 +1,2 @@
 # linuxutil
-Python linux librairie for system engineer (processus, network...)
+Python linux library for system engineer (processus, network...)
